@@ -2,8 +2,12 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './index.css';
+//import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+// import 'font-awesome/css/bootstrap.min.css';
+// import 'bootstrap-social/bootstrap-social.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import { Form } from 'reactstrap';
 
 ReactDOM.render(
   <React.StrictMode>
